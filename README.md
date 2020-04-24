@@ -16,7 +16,7 @@
 ---
 
 ## linked projects
-[Firebase hosting website](https://github.com/ocular-data/copy-passed-terminalAccess)
+[Firebase hosting website](https://github.com/ocular-data/copy-passed-firebase)
 
 [Native console access](https://github.com/ocular-data/copy-passed-terminalAccess)
 
