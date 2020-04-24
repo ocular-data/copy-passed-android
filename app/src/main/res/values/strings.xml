@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Copy-Passed</string>
+    <string name="introduction">Remote Copy App</string>
+    <string name="copy_text_action_name">Remote Copy</string>
+    <string name="paste_text_action_name">Remote Paste</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in">Sign in</string>
+    <string name="SignedAs">Signed in as: %1$s</string>
+    <string name="NotSignedin">Not Signed in</string>
+    <string name="UserIcon">User Icon</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">588853018387673</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb588853018387673</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">u3zYk4YdtMHjBQwQBu3UUKwlz</string>
+    <string name="twitter_consumer_secret" translatable="false">vFDb1Gclx5gX1iv3cSr7u3xdSgV6WFzM4GS5SYdMgyqIufnpvW</string>
+
+</resources>
