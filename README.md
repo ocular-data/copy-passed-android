@@ -26,7 +26,7 @@
 ---
 
 ### explanations
-This app allows uses to copy paste text cross
+This app allows users to copy paste text cross
 platforms as long as they have internet.
 
 with the android app you can copy text  
