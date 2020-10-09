@@ -14,6 +14,7 @@
 - [x] easy firebase login
 - [ ] add copying to the share action for sharing links
 - [ ] ability to authorize console through app
+- [ ] add copy to share options
 
 ---
 
